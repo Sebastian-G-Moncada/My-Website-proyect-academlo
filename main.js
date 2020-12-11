@@ -1,0 +1,1 @@
+alert('Profe intente hacer dinamico mi menu para que fuera asi tanto en telefono como en computadora pero no supe usar js :(, basicamente queria entregar ya el proyecto funcionando el menu y no puede.');

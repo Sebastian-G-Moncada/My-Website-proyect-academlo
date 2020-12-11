@@ -1,4 +1,4 @@
-/*         GENERALES       */
+/*         GENERAL      */
 
 * {
 	margin: 0;
@@ -55,7 +55,7 @@ header .logo p {
     margin-top: 2%;
 }
 
-/*------- Categorías ------*/
+/*------- Categories ------*/
 
 header .categories {
 	display: flex;
@@ -74,17 +74,7 @@ header .categories a:hover {
 	color: #000;
 }
 
-/*          FOOTER         */
-
-footer .social-nets {
-	display: flex;
-	align-content: center;
-	justify-content: center;
-	padding: 20px;
-	flex-wrap: wrap;
-}
-
-/*--------- Íconos --------*/
+/*--------- Icon --------*/
 
 footer .social-nets a {
 	display: block;
@@ -104,7 +94,7 @@ footer .social-nets .facebook {background: #3B5998;}
 footer .social-nets .instagram {background: #C13584;}
 footer .social-nets .codepen {background: #131418;}
 
-/*---- Animación Íconos ---*/
+/*---- Animation Icon ---*/
 
 footer .icon-container:hover a {
 	animation: icon .5s ease;
@@ -119,7 +109,15 @@ footer .icon-container:hover a {
 	}
 }
 
-/*----- Pie de Página -----*/
+/*          FOOTER         */
+
+footer .social-nets {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	padding: 20px;
+	flex-wrap: wrap;
+}
 
 footer .created-by {
 	color: #4e4d4d;
